@@ -103,7 +103,7 @@ nyc-taxi-etl/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/nyc-taxi-etl.git
+git clone https://github.com/Paul3995/nyc-taxi-etl.git
 cd nyc-taxi-etl
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
